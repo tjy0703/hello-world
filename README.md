@@ -1,2 +1,6 @@
 # hello-world
-Just one repository
+
+Hi everyone!
+
+I like node.
+I'm a big big girl.
